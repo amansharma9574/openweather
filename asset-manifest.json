@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/openweather/static/css/main.a3421dce.css",
+    "main.js": "/openweather/static/js/main.4c3e0dd2.js",
+    "static/js/787.6daf40be.chunk.js": "/openweather/static/js/787.6daf40be.chunk.js",
+    "index.html": "/openweather/index.html",
+    "main.a3421dce.css.map": "/openweather/static/css/main.a3421dce.css.map",
+    "main.4c3e0dd2.js.map": "/openweather/static/js/main.4c3e0dd2.js.map",
+    "787.6daf40be.chunk.js.map": "/openweather/static/js/787.6daf40be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3421dce.css",
+    "static/js/main.4c3e0dd2.js"
+  ]
+}
